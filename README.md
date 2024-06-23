@@ -7,7 +7,7 @@ nei miei script: [CICUS FREE SHOP](https://thecicus.000webhostapp.com/shop.php)
 - https://thecicus.000webhostapp.com/documentation.php
 
 ## ⚙️・Requisti
-- [esx framework](https://github.com/esx-framework/esx_core)
+- [esx framework](https://github.com/mitlight/es_extended)
 
 ## 📒・Cosa è ?
 - Questa libreria include una varieta di funzione che possono tornare utili
