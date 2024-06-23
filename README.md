@@ -8,6 +8,9 @@ nei miei script: [CICUS FREE SHOP](https://thecicus.000webhostapp.com/shop.php)
 
 ## 📒・Cosa è ?
 - Questa libreria include una varieta di funzione che possono tornare utili
+- Queste si dividono in
+  - Utils (RequestAnim, RequestTexture e molto altro)
+  - Lib (NUI, DrawText e molto altro)
 
 ## 📩・Supporto
 Se ci sono dei bug da segnalare apri ticket sul mio server discord: [Cicus Development](https://discord.gg/wmW8Nxuh) o anche per ricevere supporto 
