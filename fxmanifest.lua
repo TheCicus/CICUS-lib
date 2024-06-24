@@ -15,3 +15,6 @@ client_scripts({
     'lib.lua',
 });
 
+dependencies {
+	'es_extended'
+}
